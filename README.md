@@ -80,3 +80,26 @@ Proyek ini dirancang untuk memenuhi semua kriteria dari file `Soal UTS.pdf`:
 ---
 
 ## 📂 Struktur Folder Proyek
+resepku/ ├── assets/ │ ├── images/ │ │ ├── brownies.jpg │ │ └── nasi_goren.jpg │ └── dummy_recipes.json ├── lib/ │ ├── models/ │ │ └── recipe_model.dart # Struktur data resep │ ├── providers/ │ │ └── theme_provider.dart # Logika ganti tema │ ├── screens/ │ │ ├── about_page.dart │ │ ├── home_page.dart # Halaman utama │ │ ├── login_page.dart # Halaman login │ │ ├── recipe_detail_page.dart # Halaman detail │ │ ├── recipe_list_page.dart # Halaman daftar per kategori │ │ ├── register_page.dart │ │ ├── search_page.dart # Halaman hasil pencarian │ │ └── settings_page.dart # Halaman pengaturan │ ├── services/ │ │ └── recipe_service.dart # Logika memuat data │ └── main.dart # Entry point, routing, & provider ├── .gitignore # Mengabaikan file build ├── pubspec.yaml # Konfigurasi proyek & dependencies └── README.md # File ini
+
+---
+
+## ⚙️ Cara Menjalankan
+
+1.  Pastikan Anda memiliki [Flutter SDK](https://flutter.dev/docs/get-started/install) terinstal.
+2.  *Clone* repositori ini:
+    ```bash
+    git clone [LINK_REPOSITORI_ANDA_DISINI]
+    ```
+3.  Pindah ke direktori proyek:
+    ```bash
+    cd resepku
+    ```
+4.  Instal semua *dependencies* yang dibutuhkan:
+    ```bash
+    flutter pub get
+    ```
+5.  Jalankan aplikasi di emulator atau perangkat fisik:
+    ```bash
+    flutter run
+    ```
