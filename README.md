@@ -89,7 +89,7 @@ resepku/ ├── assets/ │ ├── images/ │ │ ├── brownies.jpg 
 1.  Pastikan Anda memiliki [Flutter SDK](https://flutter.dev/docs/get-started/install) terinstal.
 2.  *Clone* repositori ini:
     ```bash
-    git clone [LINK_REPOSITORI_ANDA_DISINI]
+    git clone [https://github.com/SalmanLucarion/ResepKu/tree/main/resepku]
     ```
 3.  Pindah ke direktori proyek:
     ```bash
