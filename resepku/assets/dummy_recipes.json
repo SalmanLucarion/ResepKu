@@ -1,0 +1,69 @@
+{
+  "recipes": [
+    {
+      "id": 1,
+      "name": "Nasi Goreng Spesial",
+      "category": "Breakfast",
+      "imageURL": "assets/images/nasi_goreng.jpg",
+      "description": "Nasi goreng spesial ala Indonesia yang kaya rasa, disajikan dengan telur mata sapi. Cocok untuk sarapan atau makan malam.",
+      "tags": ["Mudah", "Sarapan", "Populer"],
+      "cookTime": "20 min",
+      "servings": "2 people",
+      "difficulty": "Easy",
+      "nutrition": {
+        "Calories": "530",
+        "Protein": "20g",
+        "Fat": "18g",
+        "Carbs": "72g"
+      },
+      "ingredients": [
+        "1 piring nasi putih",
+        "2 siung bawang putih, cincang",
+        "1 butir telur, kocok lepas",
+        "Dada ayam, potong dadu",
+        "Kecap manis secukupnya",
+        "Garam dan merica"
+      ],
+      "instructions": [
+        "Tumis bawang putih hingga harum.",
+        "Masukkan potongan ayam, masak hingga berubah warna.",
+        "Sisihkan ayam ke pinggir wajan, masukkan telur dan buat orak-arik.",
+        "Masukkan nasi putih, aduk rata dengan semua bahan.",
+        "Bumbui dengan kecap manis, garam, dan merica. Aduk hingga matang dan sajikan."
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Brownies Coklat Panggang",
+      "category": "Dessert",
+      "imageURL": "assets/images/brownies.jpg",
+      "description": "Brownies coklat panggang klasik dengan tekstur fudgy di dalam dan renyah di luar. Sempurna untuk teman minum teh.",
+      "tags": ["Dessert", "Manis", "Baking"],
+      "cookTime": "45 min",
+      "servings": "8 potong",
+      "difficulty": "Medium",
+      "nutrition": {
+        "Calories": "320",
+        "Protein": "5g",
+        "Fat": "15g",
+        "Carbs": "40g"
+      },
+      "ingredients": [
+        "150gr tepung terigu",
+        "200gr dark chocolate, cincang",
+        "100gr mentega",
+        "3 butir telur",
+        "150gr gula pasir",
+        "Sedikit garam"
+      ],
+      "instructions": [
+        "Lelehkan dark chocolate dan mentega dengan cara di-tim.",
+        "Di wadah terpisah, kocok telur dan gula hingga mengembang dan pucat.",
+        "Masukkan campuran coklat leleh ke dalam adonan telur, aduk perlahan.",
+        "Ayak tepung terigu dan garam, masukkan ke adonan secara bertahap. Aduk hingga rata.",
+        "Tuang adonan ke loyang yang sudah diolesi mentega dan dialasi kertas roti.",
+        "Panggang dalam oven suhu 170°C selama 30-35 menit."
+      ]
+    }
+  ]
+}
