@@ -12,12 +12,12 @@ Berikut adalah beberapa tampilan utama dari aplikasi "ResepKu".
 
 | Halaman Login | Halaman Beranda | Detail Resep (Atas) |
 | :---: | :---: | :---: |
-| <img src="[MASUKKAN LINK SCREENSHOT LOGIN DISINI]" width="250"> | <img src="[MASUKKAN LINK SCREENSHOT BERANDA DISINI]" width="250"> | <img src="[MASUKKAN LINK SCREENSHOT DETAIL 1 DISINI]" width="250"> |
+| `[MASUKKAN SCREENSHOT LOGIN DISINI]` | `[MASUKKAN SCREENSHOT BERANDA DISINI]` | `[MASUKKAN SCREENSHOT DETAIL 1 DISINI]` |
 | *Desain UI Login baru* | *Carousel, Kategori & Daftar Populer* | *UI Detail Resep baru* |
 
 | Detail Resep (Bawah) | Menu Samping (Drawer) | Halaman Pengaturan |
 | :---: | :---: | :---: |
-| <img src="[MASUKKAN LINK SCREENSHOT DETAIL 2 DISINI]" width="250"> | <img src="[MASUKKAN LINK SCREENSHOT DRAWER DISINI]" width="250"> | <img src="[MASUKKAN LINK SCREENSHOT PENGATURAN DISINI]" width="250"> |
+| `[MASUKKAN SCREENSHOT DETAIL 2 DISINI]` | `[MASUKKAN SCREENSHOT DRAWER DISINI]` | `[MASUKKAN SCREENSHOT PENGATURAN DISINI]` |
 | *Info Nutrisi & Instruksi* | *Navigasi & Opsi Logout* | *Fitur Ganti Tema (Dark/Light)* |
 
 ---
